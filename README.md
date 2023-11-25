@@ -1,6 +1,6 @@
 # DesafioEscribo_2
 
-Olá, sejam bem vindos a segund parte deste desfaio.
+Olá, sejam bem vindos a segunda parte deste desfaio.
 
 
 
